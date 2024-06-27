@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e21f329a.css",
+    "main.css": "/static/css/main.19116d22.css",
     "main.js": "/static/js/main.0af40f8b.js",
     "static/media/background.png": "/static/media/background.755f9e448d7c53969d0b.png",
     "static/media/vase.png": "/static/media/vase.4cb2c4357195f71c6033.png",
@@ -13,14 +13,14 @@
     "static/media/logo.png": "/static/media/logo.4d44a65efe3ce70beaa1.png",
     "static/media/MyriadPro-Bold.otf": "/static/media/MyriadPro-Bold.3fa4c083a07b104b7c16.otf",
     "static/media/coin.png": "/static/media/coin.c55b2a961b61a845b128.png",
-    "static/media/right-arrow-3094.svg": "/static/media/right-arrow-3094.afa0866c98eac02a3517.svg",
+    "static/media/right-arrow-3094.svg": "/static/media/right-arrow-3094.3bb12bf462c76ec2d85e.svg",
     "index.html": "/index.html",
     "static/media/binance.svg": "/static/media/binance.ce6b6dc12ebf8fd558fa7e5038773195.svg",
-    "main.e21f329a.css.map": "/static/css/main.e21f329a.css.map",
+    "main.19116d22.css.map": "/static/css/main.19116d22.css.map",
     "main.0af40f8b.js.map": "/static/js/main.0af40f8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e21f329a.css",
+    "static/css/main.19116d22.css",
     "static/js/main.0af40f8b.js"
   ]
 }
